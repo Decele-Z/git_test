@@ -11,7 +11,7 @@ import {
   Text,
   View
 } from 'react-native';
-var my = '这是冲突测试';
+var my = '这是老板的冲突测试';
 var Main = require("./component/Main");//引入外部自定义组件
 
 export default class DouBanDemo extends Component {
